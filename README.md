@@ -2,6 +2,7 @@
 
 ## About
 
+YOUTUBE LINK: https://youtu.be/jbEF3mB7UcU?si=dkDhFnnIgLQ1nTuW
 This is a demo project for practicing Spring + Thymeleaf. The idea was to build some basic shopping cart web app.
 
 It was made using **Spring Boot**, **Spring Security**, **Thymeleaf**, **Spring Data JPA**, **Spring Data REST and Docker**. 
